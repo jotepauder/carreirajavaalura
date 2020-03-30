@@ -1,0 +1,1 @@
+Para praticar e estudar a linguagem Java e seus fundamentos.
