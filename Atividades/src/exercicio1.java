@@ -6,5 +6,6 @@ public class exercicio1 {
 		System.out.println(522);
 		System.out.println();
 		System.out.println("Seja bem-vindo a lista de exercícios resolvidos");
+		System.out.println("Olá mundo, eu preciso voltara programar em Java");
 	}
 }
